@@ -3,3 +3,5 @@
 
 2. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 
+3. [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+
