@@ -1,2 +1,12 @@
 # Crack-Your-Internship
-Challenge by arsh goyal , Here i'll solve 280+ leetcode questions and will polish my problem solving skills
+
+Whatsup fella's Nerdy Here !
+
+This Repo contains the questions i solved in 45 days DSA challenge by arsh goyal. and this repo contains solutions for the problems i solved from these 280 questions !
+
+Am already excited to begin this 💖
+
+
+## Index 
+
+### [Array Questions](./Array)
